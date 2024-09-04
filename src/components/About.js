@@ -29,7 +29,7 @@ const About = () => {
       <div className="contact-section bg-light p-4 rounded shadow-sm mt-5">
         <h2 className="mt-5 text-warning">Contact Us</h2>
         <p>
-          Have any questions or feedback? We'd love to hear from you! Reach out to us at <a href="mailto:abhipal7500@gmail.com">abhipal7500@gmail.com</a>.
+          Have any questions or feedback? We'd love to hear from you! Reach out to us at <a href="mailto:Support@gmail.com">Support@gmail.com</a>.
         </p>
       </div>
     </div>
